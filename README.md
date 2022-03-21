@@ -1,4 +1,4 @@
-# DXR-RayTracingInAWeekend
+# raytracing-in-a-weekend-dxr
 - Implemented Peter Shirley's Ray Tracing in a Weekend (RTIAW) and parts of Weekend Two with DXR
 - Video Demo: https://youtu.be/IQIxIsFdRGs 
 - See RTEngine – ```IntializeScene()``` to toggle between the two demos
